@@ -1,0 +1,4 @@
+// to run the server
+ npx webpack server
+ 
+ 
